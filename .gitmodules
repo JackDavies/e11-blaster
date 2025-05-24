@@ -1,0 +1,3 @@
+[submodule "firmware/rpi-pico-utils"]
+	path = firmware/rpi-pico-utils
+	url = https://github.com/JackDavies/rpi-pico-utils
